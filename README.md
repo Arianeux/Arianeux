@@ -1,7 +1,10 @@
 # To Do 
+
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Arianeux/Lista-de-tarefas/blob/main/LICENSE) 
 
 # Sobre o projeto
+
+Neste link será possível testar o protótipo navegável:
 
 https://www.figma.com/proto/F8OjRRrKgX12RSgzhAWznG/1%C2%BA-Projeto---Lista-de-Tarefas?page-id=0%3A1&node-id=0%3A1&viewport=305%2C-16%2C0.93&scaling=scale-down&starting-point-node-id=6%3A4&show-proto-sidebar=1
 
@@ -36,7 +39,7 @@ Ao abrir o app, iniciará esta página.
 </div>
 
 ### 2. Login
-Logo após, carregará a página de login, onde o usuário terá as opções de acesso ao app (cadastro de usuário, função de redefinição de senha e função de login do usuário + um botão de lembrar senha, para que não seja necessário o preenchimento do formulário todas as vezes que o app for iniciado).
+Logo após, carregará a página de login, onde o usuário terá as opções de acesso ao app (cadastro de usuário, função de redefinição de senha e função de login do usuário + um botão de lembrar senha, para que não seja necessário o preenchimento do formulário todas as vezes que o app for iniciado). Adiciono que nesta haverão pop-ups de orientação de ações.
 <div align="center">
 <img src="https://user-images.githubusercontent.com/109631288/190035441-ae727b02-066a-4ef3-9e0f-0068f7c1e6ae.jpg" width="250px" />
 </div>
